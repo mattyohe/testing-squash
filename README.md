@@ -1,4 +1,2 @@
 # testing-squash
 Hello
-
-asdfasdf
